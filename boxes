@@ -1,4 +1,4 @@
- Boxes = {
+Boxes = {
         Enabled = true,
         Transparency = 1,
         Color = Color3.fromRGB(255,255,255),
@@ -9,3 +9,4 @@
         OutlineThickness = 1,
         Thickness = 1
     },
+repeat()
